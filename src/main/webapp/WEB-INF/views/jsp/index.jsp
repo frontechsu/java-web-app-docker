@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Maven + tomacat</title>
+<title>suman deployment</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Project Name</a>
+			<a class="navbar-brand" href="#">Jenkins Pipeline deployment</a>
 		</div>
 	</div>
 </nav>
@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To HINDUJA TECH LIMITED, Gateway Parks</h2>
-			<h3>A6 Tower, Perungalathur, Chennai, Tamil Nadu.</h3>
+			<h2>Welcome To this site</h2>
+			<h3>deployment</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Hindujatech Limited</p>
+		<p>&copy; frontechsu</p>
 	</footer>
 </div>
 
